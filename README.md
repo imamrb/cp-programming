@@ -1,3 +1,3 @@
-# Interview Preparation
+# CP Programming
 
-Practice problems for Programming Interview Preparation.
+Competitive Programming problem solutions and algorithms
